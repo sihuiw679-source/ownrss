@@ -1,0 +1,10 @@
+name = "ownrss"
+pages_build_output_dir = "./src"
+compatibility_date = "2026-06-07"
+[[kv_namespaces]]
+binding = "RSS_KV"
+id = "c251b0ae58c34f3dbac890968eb7ca86"
+
+
+# wrangler pages dev  --ip 0.0.0.0 --port 8787
+# wrangler pages deploy
